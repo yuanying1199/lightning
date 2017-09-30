@@ -17,7 +17,10 @@ Debian下shadowsocks-libev：https://teddysun.com/358.html
 ### Caddy:https://doub.io/shell-jc1/
 
 ### vHWINFO:https://github.com/rafa3d/vHWINFO
+
+```shell
 wget --no-check-certificate https://github.com/rafa3d/vHWINFO/raw/master/vhwinfo.sh && bash vhwinfo.sh
+```
 
 
 
