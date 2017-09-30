@@ -22,7 +22,26 @@ Debian下shadowsocks-libev：https://teddysun.com/358.html
 wget --no-check-certificate https://github.com/rafa3d/vHWINFO/raw/master/vhwinfo.sh && bash vhwinfo.sh
 ```
 
+### Bench.sh:https:bench.sh
+```shell
+wget -qO- bench.sh | bash
 
+curl -Lso- bench.sh | bash
+```
+### SuperBench.sh:https://www.oldking.net/350.html
+```shell
+wget -qO- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
+
+curl -Lso- https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
+```
+### SuperSpeed.sh:https://www.oldking.net/305.html
+```shell
+wget https://raw.githubusercontent.com/oooldking/script/master/superspeed.sh
+
+chmod +x superspeed.sh
+
+./superspeed.sh
+```
 
 
 
