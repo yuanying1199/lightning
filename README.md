@@ -1,4 +1,5 @@
 # 各种一键安装脚本收集
+https://goo.gl/zEzTpT
 
 ## ShadowsocksR
 ### 1 逗比：https://doub.io/ss-jc42/
